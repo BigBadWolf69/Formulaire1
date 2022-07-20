@@ -1,0 +1,42 @@
+body {
+    color:white;
+    background-image:url(Desktop.jpg);
+    background-size: cover;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+#texte{
+    margin-left: 59px;
+}
+.texte{
+    font-size: 18px;
+}   
+.titre{
+   font-size: 40px;
+   font-weight: bolder
+}
+#logo{
+    margin-top: 64px;
+}
+#logos{
+    display: flex;
+    justify-content:flex-end ;
+}
+#imagesite{
+    margin-top: 104px;
+}
+#body{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#insta{
+    margin-left: 16px;
+}
+#twitter{
+    margin-left: 16px;
+}
+#fb{
+    margin-left: 16px;
+}
